@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "709493240763",
+    "project_id": "rentez-32dbd",
+    "storage_bucket": "rentez-32dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709493240763:android:043d904bf1ef1404964a9e",
+        "android_client_info": {
+          "package_name": "com.rentez.landlord.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709493240763-1ihmf6d53oe4gk6hhc3inviureanfno3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFi3QQMkIkr0dZOaUaB8W6bt1CvwbHPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709493240763-1ihmf6d53oe4gk6hhc3inviureanfno3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709493240763:android:8ccab5187de5cd23964a9e",
+        "android_client_info": {
+          "package_name": "com.rentez.landlord.release"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709493240763-1ihmf6d53oe4gk6hhc3inviureanfno3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFi3QQMkIkr0dZOaUaB8W6bt1CvwbHPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709493240763-1ihmf6d53oe4gk6hhc3inviureanfno3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709493240763:android:4d2e8ff9faa10dcb964a9e",
+        "android_client_info": {
+          "package_name": "com.rentez.tenant.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709493240763-1ihmf6d53oe4gk6hhc3inviureanfno3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFi3QQMkIkr0dZOaUaB8W6bt1CvwbHPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709493240763-1ihmf6d53oe4gk6hhc3inviureanfno3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709493240763:android:54ef1206d8885cb4964a9e",
+        "android_client_info": {
+          "package_name": "com.rentez.tenant.release"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709493240763-1ihmf6d53oe4gk6hhc3inviureanfno3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFi3QQMkIkr0dZOaUaB8W6bt1CvwbHPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709493240763-1ihmf6d53oe4gk6hhc3inviureanfno3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
